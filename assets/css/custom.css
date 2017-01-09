@@ -2,3 +2,9 @@
 .colored {
 	font-size: 6em;
 }
+/* the profile picture */
+.img-circle {
+    border-radius: 50%;
+    border: 1px solid #d8d8d8;
+    		
+}
