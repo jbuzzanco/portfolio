@@ -17,3 +17,10 @@
 .no-padding {
 	background-color: black;
 }
+
+.display-photo {
+   display: block;
+   position: relative;
+   width: 100%;
+   border:none;
+}
