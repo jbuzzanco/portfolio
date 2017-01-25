@@ -8,5 +8,12 @@
     border: 1px solid #d8d8d8;
     -webkit-filter: sepia(100%); /* Safari */
     filter: sepia(50%);
+}
 
+.dark-nav {
+	background-color: black;
+}
+
+.no-padding {
+	background-color: black;
 }
