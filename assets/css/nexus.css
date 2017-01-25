@@ -19,7 +19,7 @@ TABLE OF CONTENTS
 	- Testimonials
 	- Accordions
 	- Tabs
-	- Progress Bars 
+	- Progress Bars
 	- Panels
 	- Social Icons
 	- Carousel
@@ -146,7 +146,7 @@ p.site-slogan {
   white-space: nowrap;
 }
 #content-top-border {
-  background-color: rgba(23, 23, 23, 0.8);
+  background-color: #ebebeb;
   border-radius: 5px 5px 0 0;
   height: 7px;
 }
@@ -1035,7 +1035,7 @@ h1.logo-text a {
 .slicknav_menu {
   *zoom: 1;
 }
-/* 
+/*
     User Default Style
     Change the following styles to modify the appearance of the menu.
 */

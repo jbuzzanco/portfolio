@@ -10,3 +10,10 @@
     filter: sepia(50%);
 
 }
+.dark-nav {
+    background-color: black;
+}
+
+.no-padding {
+    background-color: black;
+}
