@@ -14,6 +14,17 @@
 		max-height: 180px;
 }
 
+/* the center images in about */
+
+.center-img {
+  border: 1px solid #d8d8d8;
+  margin: .2em;
+  max-width: 20em;
+  max-height: 20em;
+
+}
+
+
 .dark-nav {
 	background-color: black;
 }
