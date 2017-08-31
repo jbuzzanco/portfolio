@@ -1,3 +1,13 @@
+/* the portfolio centino t*/
+div.row.padding-vert-20 {
+	margin: auto;
+  width: 99%;
+}
+.portfolio-item {
+	margin: auto;
+	display: block;
+	text-align: center;
+}
 /* img for dev icons that weren't in the font library */
 .dev-img {
 	width: 6em;
