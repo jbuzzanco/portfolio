@@ -1,12 +1,11 @@
-/* the portfolio centino t*/
-div.row.padding-vert-20 {
-	margin: auto;
-  width: 99%;
+/* projects header */
+.projects-header {
+	border: 0.4em solid black;
+	color: white;
+	background-color: rgba(114, 150, 143, 0.5);
 }
-.portfolio-item {
-	margin: auto;
-	display: block;
-	text-align: center;
+.white {
+	color: white;
 }
 /* img for dev icons that weren't in the font library */
 .dev-img {
