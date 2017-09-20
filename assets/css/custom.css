@@ -1,3 +1,8 @@
+/* Color for when you select or highlight text */
+::selection {
+	background-color: #FF97E8;
+	color: #000;
+}
 /* projects header */
 .projects-header {
 	border: 0.4em solid black;
